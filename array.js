@@ -25,3 +25,22 @@ else if (price < 10000){
 else{
     console.log('Expensive')
 }
+
+
+///loop
+
+let pushUp = 0;
+while(pushUp < 20){
+    console.log(pushUp , 'pushUp');
+    //pushUp += 1;
+// pushUp = pushUp + 1;
+pushUp++;
+}
+
+//for loop
+ for (let j = 0; j < 20; j++){
+    console.log(j);
+ }
+
+
+ 
