@@ -11,4 +11,8 @@ const pru = [23,35,455,34]
 const com_pru = pru;
 com_pru[2] = 300;
 console.log(pru);
-console.log(com_pru);
+console.log(com_pru); //it's not change number 
+
+for (const prud of pru){
+    
+}
